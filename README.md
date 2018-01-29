@@ -1,6 +1,6 @@
-# Basic-Javascript-algorithm
+freeCodeCamp Javascript Algorithms
 
-Solutions to freeCodeCamp Basic Javascript Algorithms.
+Solutions to freeCodeCamp Javascript Algorithms.
 
 All codes learned from following Youtube sources:
 
